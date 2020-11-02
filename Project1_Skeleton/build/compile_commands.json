@@ -1,0 +1,55 @@
+[
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/main.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/main.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/main.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/MeshGL.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/MeshGL.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/MeshGL.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/ViewerCore.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/ViewerCore.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/ViewerCore.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/ViewerData.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/ViewerData.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/ViewerData.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/joint.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/joint.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/joint.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/skeleton.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/skeleton.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/skeleton.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/tokenizer.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/tokenizer.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/tokenizer.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/g++-7   -I../includes -I.././src  -g   -fopenmp -o CMakeFiles/main.dir/src/viewer.cpp.o -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/viewer.cpp",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/viewer.cpp"
+},
+
+{
+  "directory": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/build",
+  "command": "/bin/gcc-7  -I../includes -I.././src  -g   -o CMakeFiles/GLAD.dir/src/glad.c.o   -c /home/server/MaJing/courses/CSE169/Project1_Skeleton/src/glad.c",
+  "file": "/home/server/MaJing/courses/CSE169/Project1_Skeleton/src/glad.c"
+}
+]

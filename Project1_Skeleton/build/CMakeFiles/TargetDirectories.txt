@@ -1,0 +1,4 @@
+/home/server/MaJing/courses/CSE169/Project1_Skeleton/build/CMakeFiles/rebuild_cache.dir
+/home/server/MaJing/courses/CSE169/Project1_Skeleton/build/CMakeFiles/main.dir
+/home/server/MaJing/courses/CSE169/Project1_Skeleton/build/CMakeFiles/edit_cache.dir
+/home/server/MaJing/courses/CSE169/Project1_Skeleton/build/CMakeFiles/GLAD.dir
